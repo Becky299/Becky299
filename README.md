@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="" width="95%" />
+</p>
 # 📘 README – Perfil del Estudiante
 
 ## 🧾 Información General
