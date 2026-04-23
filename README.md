@@ -1,16 +1,53 @@
-## Hi there 👋
+# 📘 README – Perfil del Estudiante
 
-<!--
-**Becky299/Becky299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧾 Información General
 
-Here are some ideas to get you started:
+- REBECA BOLAÑOS 
+- 18 
+- Software 
+- Instituto Nacional de Santiago de Maria  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Intereses
+
+- Desarrollo de software y programación
+Bases de datos y gestión de información
+Aprender nuevas tecnologías y mejorar habilidades técnicas 
+
+---
+
+## 🧠 Habilidades
+
+- Resolución de problemas
+- Pensamiento lógico 
+- Trabajo autónomo y aprendizaje rápido
+
+---
+
+## 💻 Conocimientos Técnicos
+
+Lenguajes de programación: SQL, conocimientos básicos de programación
+Herramientas tecnológicas: MySQL, SQL Server, CMD
+Otros conocimientos: Diseño y normalización de bases de datos
+
+---
+
+## 📚 Experiencia Académica
+
+- Desarrollo de un sistema de restaurante utilizando bases de datos
+- Creación y gestión de tablas, consultas y reportes en SQL
+
+---
+
+## 🎯 Objetivos Personales
+
+- Mejorar mis habilidades en programación y bases de datos
+- Convertirme en una profesional en desarrollo de software
+
+---
+
+## 📌 Notas
+
+Interesada en seguir aprendiendo y creciendo en el área tecnológica
+Comprometida con mi formación académica
