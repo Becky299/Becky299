@@ -7,7 +7,7 @@
 
 - REBECA BOLAÑOS 
 - 18 
-- Software 
+- 3 Software B
 - Instituto Nacional de Santiago de Maria  
 
 ---
